@@ -14,7 +14,7 @@ d) Todos os ficheiros desenvolvidos devem ser submetidos na plataforma Git, na c
 # Alterações da API
 const API_URL = "https://animalec-server.herokuapp.com"; 
 substituido por 
-const API_URL = "https://mini-proj3.herokuapp.com";
+const API_URL = "https://pwa-mini-proj3.herokuapp.com";
 # Alterações da BD
 uri: 'mongodb+srv://user:xxx@fcabook-jly7a.mongodb.net/test?retryWrites=true&w=majority', 
 substituido por 
